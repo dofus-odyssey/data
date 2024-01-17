@@ -1,0 +1,131 @@
+dofus:
+    -
+      name: Dofus Pourpre
+      remote_id: 694
+      image_url: https://api.dofusdb.fr/img/items/23001.png
+      sort: 500
+    -
+      name: Dofus Émeraude
+      remote_id: 737
+      image_url: https://api.dofusdb.fr/img/items/23002.png
+      sort: 400
+    -
+      name: Dofus Turquoise
+      remote_id: 739
+      image_url: https://api.dofusdb.fr/img/items/23003.png
+      sort: 800
+    -
+      name: Dofus Cawotte
+      remote_id: 972
+      image_url: https://api.dofusdb.fr/img/items/23006.png
+      sort: 200
+    -
+      name: Dofus Vulbis
+      remote_id: 6980
+      image_url: https://api.dofusdb.fr/img/items/23004.png
+      sort: 1400
+    -
+      name: Dofus des Glaces
+      remote_id: 7043
+      image_url: https://api.dofusdb.fr/img/items/23005.png
+      sort: 900
+    -
+      name: Dofus Tacheté
+      remote_id: 7112
+      image_url: https://api.dofusdb.fr/img/items/23008.png
+      sort: 1300
+    -
+      name: Dofawa
+      remote_id: 7113
+      image_url: https://api.dofusdb.fr/img/items/23009.png
+      sort: ~
+    -
+      name: Dofus Ébène
+      remote_id: 7114
+      image_url: https://api.dofusdb.fr/img/items/23007.png
+      sort: 1200
+    -
+      name: Dofus Ivoire
+      remote_id: 7115
+      image_url: https://api.dofusdb.fr/img/items/23011.png
+      sort: 1100
+    -
+      name: Dofus Ocre
+      remote_id: 7754
+      image_url: https://api.dofusdb.fr/img/items/23012.png
+      sort: 5000
+    -
+      name: Dofus Kaliptus
+      remote_id: 8072
+      image_url: https://api.dofusdb.fr/img/items/23010.png
+      sort: ~
+    -
+      name: Dofus Nébuleux
+      remote_id: 8698
+      image_url: https://api.dofusdb.fr/img/items/23016.png
+      sort: 1500
+    -
+      name: Dokille
+      remote_id: 10907
+      image_url: https://api.dofusdb.fr/img/items/23017.png
+      sort: ~
+    -
+      name: Dolmanax
+      remote_id: 13344
+      image_url: https://api.dofusdb.fr/img/items/23018.png
+      sort: 10000
+    -
+      name: Dotruche
+      remote_id: 15235
+      image_url: https://api.dofusdb.fr/img/items/23019.png
+      sort: ~
+    -
+      name: Dofus des Veilleurs
+      remote_id: 16061
+      image_url: https://api.dofusdb.fr/img/items/23020.png
+      sort: 350
+    -
+      name: Dokoko
+      remote_id: 17078
+      image_url: https://api.dofusdb.fr/img/items/23022.png
+      sort: 300
+    -
+      name: Dofus Abyssal
+      remote_id: 18043
+      image_url: https://api.dofusdb.fr/img/items/23023.png
+      sort: 1000
+    -
+      name: Dofus Forgelave
+      remote_id: 19398
+      image_url: https://api.dofusdb.fr/img/items/23024.png
+      sort: 4000
+    -
+      name: Dofus Argenté
+      remote_id: 19629
+      image_url: https://api.dofusdb.fr/img/items/23025.png
+      sort: 100
+    -
+      name: Dofus Argenté Scintillant
+      remote_id: 20286
+      image_url: https://api.dofusdb.fr/img/items/23027.png
+      sort: 5100
+    -
+      name: Dofus Cacao
+      remote_id: 20987
+      image_url: https://api.dofusdb.fr/img/items/23029.png
+      sort: ~
+    -
+      name: Domakuro
+      remote_id: 23237
+      image_url: https://api.dofusdb.fr/img/items/23032.png
+      sort: 600
+    -
+      name: Dorigami
+      remote_id: 23408
+      image_url: https://api.dofusdb.fr/img/items/23033.png
+      sort: 700
+    -
+      name: Dofus du Cauchemar
+      remote_id: 26066
+      image_url: https://api.dofusdb.fr/img/items/23034.png
+      sort: 4900

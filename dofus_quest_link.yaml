@@ -1,0 +1,305 @@
+dofus:
+    # Dofus Pourpre
+    694:
+        prerequisites:
+            achievements:
+                - { remote_id: 1678, sort: 100 } # Un citoyen modèle
+                - { remote_id: 1036, sort: 200 } # Mais où sont les Dofus ?
+                - { remote_id: 3034, sort: 300, last_remote_quest_id: 2149 } # Les grands esprits se rencontrent - Le réveil de Pandala
+        main:
+            achievements:
+                - { remote_id: 1101, sort: 100 } # Pourpre profond
+
+    # Dofus Émeraude
+    737:
+        prerequisites:
+            achievements:
+                - { remote_id: 1678, sort: 100 } # Un citoyen modèle
+                - { remote_id: 1036, sort: 200 } # Mais où sont les Dofus ?
+                - { remote_id: 3034, sort: 300, last_remote_quest_id: 2149 } # Les grands esprits se rencontrent - Le réveil de Pandala
+        main:
+            achievements:
+                - { remote_id: 1048, sort: 100 } # Vert émeraude
+
+    # Dofus Turquoise
+    739:
+        prerequisites:
+            achievements:
+                - { remote_id: 1678, sort: 100 } # Un citoyen modèle
+                - { remote_id: 1036, sort: 200 } # Mais où sont les Dofus ?
+                - { remote_id: 3034, sort: 300, last_remote_quest_id: 2149 } # Les grands esprits se rencontrent - Le réveil de Pandala
+        main:
+            achievements:
+                - { remote_id: 1385, sort: 100 } # Bleu turquoise
+
+    # Dofus Cawotte
+    972:
+        prerequisites:
+            achievements:
+                - { remote_id: 1678, sort: 100 } # Un citoyen modèle
+                - { remote_id: 1036, sort: 200, last_remote_quest_id: 2193 } # Mais où sont les Dofus ? - Un sage parmi les sages
+                - { remote_id: 993, sort: 300, last_remote_quest_id: 827 } # Partie prise - Intrusion chez les wabbits
+        main:
+            achievements:
+                - { remote_id: 989, sort: 100 } # Rusé comme une Lenalde
+                - { remote_id: 991, sort: 200 } # Un Wa de pacotille
+
+    # Dofus Vulbis
+    6980:
+        prerequisites:
+            achievements:
+                - { remote_id: 2306, sort: 100, last_remote_quest_id: 2064 } # Eliocalypse : Résonance - Ce sera mieux avant
+                - { remote_id: 2197, sort: 200, last_remote_quest_id: 2087 } # Larmes de crocodaille - Le sens du sacrifice
+        main:
+            achievements:
+                - { remote_id: 2198, sort: 100 } # Rêves de dragons
+
+    # Dofus des Glaces
+    7043:
+        prerequisites: ~
+        main:
+            achievements:
+                - { remote_id: 552, sort: 100 } # Fri carré
+                - { remote_id: 553, sort: 200 } # Halte au péage
+                - { remote_id: 551, sort: 300 } # La maire dénie
+                - { remote_id: 921, sort: 400 } # L'hiver arrive
+                - { remote_id: 554, sort: 500 } # L'âme de glace
+                - { remote_id: 920, sort: 600 } # Fraîchement pondu
+
+    # Dofus Tacheté
+    7112:
+        prerequisites:
+            achievements:
+                - { remote_id: 1678, sort: 100 } # Un citoyen modèle
+                - { remote_id: 1036, sort: 200 } # Mais où sont les Dofus ?
+                - { remote_id: 1048, sort: 300, last_remote_quest_id: 1465 } # Vert émeraude - Le voleur d'âmes
+                - { remote_id: 3078, sort: 400, last_remote_quest_id: 2179 } # Le gardien de l'immaculé - Maudite disparition
+                - { remote_id: 3098, sort: 500 } # Deux dragons entrent dans un bar...
+                - { remote_id: 3034, sort: 600 } # Les grands esprits se rencontrent
+        main:
+            achievements:
+                - { remote_id: 3082, sort: 100 } # Un rêve en clair-obscur
+
+    # Dofus Èbène
+    7114:
+        prerequisites:
+            achievements:
+                - { remote_id: 1678, sort: 100 } # Un citoyen modèle
+                - { remote_id: 1036, sort: 200 } # Mais où sont les Dofus ?
+                - { remote_id: 1672, sort: 300 } # La grande biblioquête
+                - { remote_id: 585, sort: 400 } # L'osmose
+                - { remote_id: 3034, sort: 500, last_remote_quest_id: 2149 } # Les grands esprits se rencontrent - Le réveil de Pandala
+                - { remote_id: 1650, sort: 600, last_remote_quest_id: 1869 } # La Fratrie des Oubliés - Le fléau de Burin
+                - { remote_id: 1651, sort: 700, last_remote_quest_id: 1938 } # L'armée des morts - La colère des dieux
+                - { remote_id: 1681, sort: 800, last_remote_quest_id: 2011 } # Là-bas sous la montagne - De Brikke et de Brokke
+        main:
+            achievements:
+                - { remote_id: 1704, sort: 100 } # Noir d'ébène
+
+    # Dofus Ivoire
+    7115:
+        prerequisites:
+            achievements:
+                - { remote_id: 1678, sort: 100 } # Un citoyen modèle
+                - { remote_id: 1036, sort: 200 } # Mais où sont les Dofus ?
+                - { remote_id: 1650, sort: 300, last_remote_quest_id: 1845 } # La Fratrie des Oubliés - Ne tirez pas sur le messager
+                - { remote_id: 1613, sort: 500, last_remote_quest_id: 1859 } # Les landes mortes - Faire le mort
+                - { remote_id: 1614, sort: 600 } # Hurlements de rire
+                - { remote_id: 1073, sort: 700 } # Même pas malle
+                - { remote_id: 1074, sort: 800, last_remote_quest_id: 1507 } # Après les phorreurs, le réconfort - Les grandes galeries
+                - { remote_id: 1076, sort: 900, last_remote_quest_id: 1510 } # Raisons de retraite - Espionnage industriel
+                - { remote_id: 551, sort: 1000, last_remote_quest_id: 650 } # La maire dénie - L'essentiel est dans le Lac Gelé
+                - { remote_id: 554, sort: 1100, last_remote_quest_id: 1317 } # L'âme de glace - Malédiction !
+                - { remote_id: 1511, sort: 1200, last_remote_quest_id: 1731 } # Plouf ! - La pêche aux infos
+                - { remote_id: 1512, sort: 1300, last_remote_quest_id: 1736 } # La mer en héritage - Son nom est personne
+                - { remote_id: 1590, sort: 1400 } # La chasse aux chasseurs
+            quests:
+                - { remote_id: 1910, sort: 400 } # La garde meurt mais ne se rend pas
+        main:
+            achievements:
+                - { remote_id: 1622, sort: 100 } # Blanc ivoire
+
+    # Dofus Nébuleux
+    8698:
+        prerequisites: ~
+        main:
+            achievements:
+                - { remote_id: 1072, sort: 100 } # D'un monde à l'autre
+                - { remote_id: 1073, sort: 200 } # Même pas malle
+                - { remote_id: 1074, sort: 300 } # Après les phorreurs, le réconfort
+                - { remote_id: 1075, sort: 400 } # Le roi et moi
+                - { remote_id: 1076, sort: 500 } # Raisons de retraite
+                - { remote_id: 1102, sort: 600 } # Aux portes de la nuit
+                - { remote_id: 1103, sort: 700 } # Sauvé par le gong
+                - { remote_id: 1104, sort: 800 } # Crache ton venin
+                - { remote_id: 1105, sort: 900 } # Le jeu du trône
+                - { remote_id: 1106, sort: 1000 } # Les voleurs de Srambad
+                - { remote_id: 1142, sort: 1100 } # Générations futures
+                - { remote_id: 1143, sort: 1200 } # Les temps qui courent
+                - { remote_id: 1144, sort: 1300 } # Carpe Diem
+                - { remote_id: 1145, sort: 1400 } # Le puits du fou
+                - { remote_id: 1146, sort: 1500 } # Moments d'égarement
+                - { remote_id: 1186, sort: 1600 } # Par-delà les apparences
+                - { remote_id: 1188, sort: 1700 } # Je rêvais d'un autre monde
+
+    # Dolmanax
+    13344:
+        prerequisites: ~
+        main:
+            achievements:
+                - { remote_id: 568, sort: 100 } # Le repos du dragon
+
+    # Dotruche
+    15235:
+        prerequisites: ~
+        main:
+            achievements:
+                - { remote_id: 586, sort: 100 } # Faire le keke
+
+    # Dofus des Veilleurs
+    16061:
+        prerequisites: ~
+        main:
+            achievements:
+                - { remote_id: 1072, sort: 100 } # D'un monde à l'autre
+                - { remote_id: 1102, sort: 200 } # Aux portes de la nuit
+                - { remote_id: 1142, sort: 300 } # Générations futures
+                - { remote_id: 1186, sort: 400 } # Par-delà les apparences
+
+    # Dokoko
+    17078:
+        prerequisites: ~
+        main:
+            achievements:
+                - { remote_id: 1397, sort: 100 } # Koko Boy
+
+    # Dofus Abyssal
+    18043:
+        prerequisites: ~
+        main:
+            achievements:
+                - { remote_id: 1511, sort: 100 } # Plouf !
+                - { remote_id: 1512, sort: 200 } # La mer en héritage
+                - { remote_id: 1513, sort: 300 } # La guerre des profondeurs
+                - { remote_id: 1514, sort: 400 } # L'appel de Koutoulou
+                - { remote_id: 1515, sort: 500 } # Vous ne descendrez pas plus bas
+                - { remote_id: 1516, sort: 600 } # Silence on coule
+                - { remote_id: 1020, sort: 700 } # Test d'étanchéité
+
+    # Dofus Forgelave
+    19398:
+        prerequisites:
+            achievements:
+                - { remote_id: 585, sort: 100, last_remote_quest_id: 894 } # L'osmose - Mieux vaut ne pas se fier à la première impression
+        main:
+            achievements:
+                - { remote_id: 1650, sort: 100 } # La Fratrie des Oubliés
+                - { remote_id: 1651, sort: 200 } # L'armée des morts
+                - { remote_id: 1652, sort: 300 } # Marche et crève
+                - { remote_id: 1653, sort: 400 } # Cimetière marin
+
+    # Dofus Argenté
+    19629:
+        prerequisites: ~
+        main:
+            achievements:
+                - { remote_id: 1378, sort: 100 } # En route pour l'aventure
+                - { remote_id: 1379, sort: 200 } # Poussé par le vent
+                - { remote_id: 1380, sort: 300 } # Service dans la milice
+                - { remote_id: 649, sort: 400 } # C'est le métier qui rentre
+                - { remote_id: 1381, sort: 500 } # Ramdam sur Incarnam
+                - { remote_id: 1678, sort: 600 } # Un citoyen modèle
+                - { remote_id: 1671, sort: 700 } # L'occasion fait le larron
+                - { remote_id: 1672, sort: 800 } # La grande biblioquête
+                - { remote_id: 1673, sort: 900 } # Mercenaire d'acier
+                - { remote_id: 1674, sort: 1000 } # Pas le temps de chômer
+                - { remote_id: 1675, sort: 1100 } # L'habitat urbain
+                - { remote_id: 1676, sort: 1200 } # Escapades et embuscades
+
+    # Dofus Argenté Scintillant
+    20286:
+        prerequisites: ~
+        main:
+            achievements:
+                - { remote_id: 1705, sort: 100, last_remote_quest_id: 2048 } # Six sur six - Dans la gueule du Dragon
+            quests:
+                - { remote_id: 2051, sort: 200 }
+
+    # Domakuro
+    23237:
+        prerequisites: ~
+        main:
+            achievements:
+                - { remote_id: 3034, sort: 100 } # Les grands esprits se rencontrent
+
+    # Dorigami
+    23408:
+        prerequisites: ~
+        main:
+            achievements:
+                - { remote_id: 3078, sort: 100 } # Le gardien de l'immaculé
+
+    # Dofus du Cauchemar
+    26066:
+        prerequisites: ~
+        main:
+            achievements:
+                - { remote_id: 5162, sort: 100 } # Eliocalypse : Réminiscence
+
+    # Dofus Cacao
+    20987:
+        prerequisites:
+            quests:
+                - { remote_id: 2066, sort: 100 } # L'île flottante au chocolat
+                - { remote_id: 2061, sort: 200 } # La manie du recyclage
+        main:
+            quests:
+                - { remote_id: 2056, sort: 100 } # La crise de foi
+                - { remote_id: 2057, sort: 200 } # Un œuf à part
+                - { remote_id: 2058, sort: 300 } # Chocomagie contre chocomancie
+                - { remote_id: 2059, sort: 400 } # Mystère et œuf au chocolat
+                - { remote_id: 2060, sort: 500 } # Le cas Kao
+
+    # Dokille
+    10907:
+        prerequisites: ~
+        main:
+            quests:
+                - { remote_id: 733, sort: 100 } # Le Safari des âmes juvéniles
+                - { remote_id: 734, sort: 200 } # Le Safari des âmes novices
+                - { remote_id: 735, sort: 300 } # Le Safari des âmes matures
+                - { remote_id: 736, sort: 400 } # Le Safari des âmes vénérables
+                - { remote_id: 737, sort: 500 } # Le Safari des âmes moniaques
+                - { remote_id: 738, sort: 600 } # Le Safari des âmes hygdales
+                - { remote_id: 739, sort: 700 } # Le Safari des âmes andalires
+                - { remote_id: 740, sort: 800 } # Le Safari des âmes nésiques
+
+    # Dom de Pin
+    27803:
+        prerequisites: ~
+        main:
+            achievements:
+                - { remote_id: 5925, sort: 100 } # L'enfant regardait tomber la neige
+                - { remote_id: 5928, sort: 200 } # Un clan hétéroclite
+                - { remote_id: 5931, sort: 300 } # Conseiller en patrimoine
+                - { remote_id: 5932, sort: 400 } # Le bouquet final
+                - { remote_id: 1705, sort: 500 } # Six sur six
+                - { remote_id: 5222, sort: 600 } # Le secret des Dofus : Prologue
+
+    # Dofus Sylvestre
+    29136:
+        prerequisites:
+            achievements:
+                - { remote_id: 5925, sort: 100 } # L'enfant regardait tomber la neige
+                - { remote_id: 5928, sort: 200 } # Un clan hétéroclite
+                - { remote_id: 5931, sort: 300 } # Conseiller en patrimoine
+                - { remote_id: 5932, sort: 400 } # Le bouquet final
+                - { remote_id: 1705, sort: 500 } # Six sur six
+                - { remote_id: 5222, sort: 600 } # Le secret des Dofus : Prologue
+        main:
+            achievements:
+                - { remote_id: 7760, sort: 700 } # L'arbre qui cache la forêt
+            quests:
+                - { remote_id: 2489, sort: 800 } # Flovoraison
+
+
